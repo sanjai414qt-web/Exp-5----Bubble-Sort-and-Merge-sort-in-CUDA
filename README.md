@@ -1,4 +1,9 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
+<h3>SANJAI K</h3>
+<h3>212225230245</h3>
+<h3>EX.No:5</h3>
+<h3>24/11/2026</h3>
+
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
 ## AIM:
